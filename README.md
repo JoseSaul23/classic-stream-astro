@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal
+# classic-stream-astro
 
 ```sh
 npm create astro@latest -- --template minimal
